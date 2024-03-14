@@ -28,6 +28,6 @@ function reverseLettersInWords($str) {
 // Пример использования:
 $str = "Cat is, 'cold' now";
 echo '<p>';
-echo reverseLettersInWords($str); // Вывод: Tac si 'dloc' won
+echo reverseLettersInWords($str); // Вывод
 echo '</p>';
 
